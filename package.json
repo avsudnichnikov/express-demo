@@ -4,8 +4,11 @@
   "description": "example for async-lect",
   "main": "index.js",
   "author": "avsudnichnikov",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
